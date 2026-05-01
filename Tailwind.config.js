@@ -10,10 +10,10 @@ export default {
       },
       colors: {
         bg: {
-          primary: "#060a14",
-          secondary: "#0d1220",
-          card: "#0f1828",
-          hover: "#141e30",
+          primary: "#d884c2",
+          secondary: "#616b87",
+          card: "#0f6668",
+          hover: "#8792a7",
         },
         accent: "#00d4ff",
         purple: "#a855f7",

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import CreateLinkModal from "./CreateLinkModal";
 import { MOCK_LINKS } from "../data/mockData";
- 
+
 // LinksPage: displays and manages the user's shortened links.
 // - Provides search, filter, sort, and actions (copy, QR, analytics, toggle, delete).
 // - Uses local mock data for demo purposes.
@@ -270,7 +270,7 @@ export default function LinksPage({ onAnalytics }) {
 
       <div
         style={{
-          maxWidth: "960px",
+          maxWidth: "970px",
           margin: "0 auto",
           padding: "32px 24px",
           position: "relative",
