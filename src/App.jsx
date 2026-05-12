@@ -5,7 +5,7 @@ import LinksPage from "./components/pages/LinksPage";
 import AnalyticsPage from "./components/pages/AnalyticsPage";
 import SettingsPage from "./components/pages/SettingsPage";
 import Sidebar from "./components/layout/Sidebar";
-import { MOCK_USER } from "./components/data/mockData";
+import { MOCK_USER } from "./components/data/Mockdata";
 
 export default function App() {
   const [isAuth, setIsAuth] = useState(false);
