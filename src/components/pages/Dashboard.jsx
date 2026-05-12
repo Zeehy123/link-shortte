@@ -11,7 +11,7 @@ import {
   Bar,
 } from "recharts";
 import { generateClickTimeline, MOCK_LINKS } from "../data/mockData";
-import CreateLinkModal from "./CreateLinkModal";
+import CreateLinkModal from "./CreatelinkModal";
 
 // Dashboard: overview of link performance and quick actions.
 // - Shows key stats, a clicks-over-time chart, top links, and recent activity.
