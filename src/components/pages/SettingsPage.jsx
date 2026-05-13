@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import { MOCK_USER } from "../data/mockData";
+import { MOCK_USER } from "../data/Mockdata";
 
 const S = {
   card: {

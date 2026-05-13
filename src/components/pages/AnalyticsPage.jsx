@@ -20,7 +20,7 @@ import {
   BROWSER_DATA,
   GEO_DATA,
   REFERRER_DATA,
-} from "../data/mockData";
+} from "../data/Mockdata";
 
 // AnalyticsPage: detailed per-link analytics view.
 // - Displays time-series charts, device/browser/geo/referrer breakdowns.

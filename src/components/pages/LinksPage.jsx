@@ -1,6 +1,6 @@
 import { useState } from "react";
-import CreateLinkModal from "./CreateLinkModal";
-import { MOCK_LINKS } from "../data/mockData";
+import CreateLinkModal from "./CreatelinkModal";
+import { MOCK_LINKS } from "../data/Mockdata";
 
 // LinksPage: displays and manages the user's shortened links.
 // - Provides search, filter, sort, and actions (copy, QR, analytics, toggle, delete).

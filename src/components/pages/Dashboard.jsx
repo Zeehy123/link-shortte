@@ -10,7 +10,7 @@ import {
   BarChart,
   Bar,
 } from "recharts";
-import { generateClickTimeline, MOCK_LINKS } from "../data/mockData";
+import { generateClickTimeline, MOCK_LINKS } from "../data/Mockdata";
 import CreateLinkModal from "./CreatelinkModal";
 
 // Dashboard: overview of link performance and quick actions.
